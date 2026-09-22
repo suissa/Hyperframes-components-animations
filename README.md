@@ -8,3 +8,5 @@ https://github.com/heygen-com/hyperframes/blob/main/registry%2Fcomponents%2Ffocu
 
 https://github.com/heygen-com/hyperframes/tree/main/registry%2Fcomponents%2Fgloss-sweep
 
+https://github.com/heygen-com/hyperframes/tree/main/registry%2Fcomponents%2Finput-feedback
+
