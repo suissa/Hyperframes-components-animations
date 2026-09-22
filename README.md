@@ -23,6 +23,8 @@ https://github.com/heygen-com/hyperframes/tree/main/registry%2Fcomponents%2Fpara
 
 
 
+https://github.com/heygen-com/hyperframes/tree/main/registry%2Fcomponents%2Fparticle-image
+
 
 
 
